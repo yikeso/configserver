@@ -1,0 +1,8 @@
+# configserver
+springboot配置中心
+将springboot的项目文件提交到github上
+spring配置中心读取在github上的该springboot项目中的配置文件
+将springboot项目设置为从该配置中心获取配置
+
+如果该springboot项目有配置修改，则在修改后，将配置文件提交到github。
+所有分布式式服务器中的该springboot项目配置都会同步修改
